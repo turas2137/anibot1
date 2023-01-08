@@ -1,0 +1,493 @@
+* {
+    background-color: #24276D;
+    color: white;
+
+
+
+
+}
+
+#wspieraja {
+    margin-bottom: 100px;
+    margin-left: 175px;
+}
+
+#collapseNavbar {
+    margin-bottom: 205px;
+}
+
+.menu-l {
+
+    width: 171px;
+    height: 34px;
+    left: 818px;
+    top: 64px;
+
+
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+
+}
+
+.logo {
+
+    width: 331px;
+    height: 85px;
+    left: 188px;
+    top: 13px;
+    margin-bottom: 190px;
+
+
+
+}
+
+.section1 {
+    text-align: center;
+    width: 1177px;
+    height: 671px;
+    left: 188px;
+    top: 208px;
+
+}
+
+.section2 {
+    width: 1065px;
+    height: 106px;
+    left: 188px;
+    top: 10px;
+}
+
+.secton3 {
+    width: 1151.56px;
+    height: 381px;
+    left: 188px;
+    top: 1189px;
+
+
+}
+
+#p1 {
+    width: 587px;
+    height: 121px;
+    left: 188px;
+    top: 282px;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 110%;
+
+}
+
+#p2 {
+
+    width: 397px;
+    height: 74px;
+    left: 188px;
+    top: 512px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    margin-top: 110px;
+    margin-left: 0px;
+
+}
+
+#p3 {
+    width: 545.56px;
+    height: 83.79px;
+    left: 794px;
+    top: 1189px;
+    margin-bottom: 50px;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 110%;
+
+
+}
+
+#p4 {
+    width: 520.46px;
+    height: 70.46px;
+    left: 794px;
+    top: 1313.74px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+
+
+}
+
+#p5 {
+    width: 562.39px;
+    height: 83.74px;
+    left: 188.99px;
+    top: 1730px;
+    margin-top: 60px;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 110%;
+
+
+}
+
+#p6 {
+    width: 536.52px;
+    height: 70.42px;
+    left: 188.99px;
+    top: 1813.85px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+
+
+}
+
+#p7 {
+    width: 513px;
+    height: 123px;
+    left: 469px;
+    top: 2401px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 110%;
+    margin-left: 350px;
+
+    /* or 44px */
+
+    text-align: center;
+
+
+}
+
+#zdj1 {
+    width: 644px;
+
+    left: 721px;
+    top: 208px;
+
+
+}
+
+#zdj2 {
+    width: 228px;
+    height: 39px;
+    left: 228px;
+    top: 975px;
+
+    background: url(2560px-Realme-realme-_logo_box-RGB-01);
+    opacity: 0.6;
+    border-radius: 20px;
+
+
+}
+
+#zdj3 {
+    width: 218px;
+    height: 59px;
+    left: 481px;
+    top: 965px;
+
+    background: url(Forbes_logo);
+    opacity: 0.6;
+    border-radius: 20px;
+
+}
+
+#zdj4 {
+    width: 226px;
+    height: 127px;
+    left: 729px;
+    top: 934px;
+
+}
+
+#zdj5 {
+    width: 247px;
+    height: 120px;
+    left: 968px;
+    top: 938px;
+
+}
+
+#zdj6 {
+    width: 522.48px;
+    height: 381px;
+    left: 188px;
+    top: 1189px;
+
+    background: url(robotdeska-PhotoRoom.png);
+    border-radius: 30px;
+}
+
+#zdj7 {
+    width: 546.56px;
+    height: 386px;
+    left: 792px;
+    top: 1674px;
+    margin-top: 60px;
+    background: url(ebo_ari_three-PhotoRoom.png);
+    border-radius: 30px;
+    margin-bottom: 70px;
+}
+
+.button1 {
+    width: 255px;
+    height: 75px;
+    left: 188px;
+    top: 636px;
+    margin-right: 30px;
+    background: #9279E0;
+    border-radius: 50px;
+    border-color: #9279E0;
+}
+
+.button2 {
+
+    width: 237px;
+    height: 71.41px;
+    left: 794px;
+    top: 1467.99px;
+    margin: 50px;
+    margin-left: 0px;
+    background: #9279E0;
+    border-radius: 50px;
+    border-color: #9279E0;
+}
+
+.button3 {
+    width: 368.93px;
+    height: 71.02px;
+    left: 188px;
+    top: 1949.98px;
+    margin-top: 30px;
+    background: #9279E0;
+    border-radius: 50px;
+    border-color: #9279E0;
+
+
+}
+
+.button4 {
+    width: 368.93px;
+    height: 71.02px;
+    left: 541.5px;
+    top: 2564.48px;
+    margin-left: 425px;
+    margin-bottom: 130px;
+
+    background: #9279E0;
+    border-radius: 50px;
+    border-color: #9279E0;
+}
+
+#nas {
+    width: 175px;
+    height: 22px;
+    left: 197px;
+    top: 930px;
+
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.1em;
+}
+
+#prostokat2 {
+
+    width: 1065px;
+    height: 502px;
+    left: 189px;
+    top: 2273px;
+    background: linear-gradient(102.81deg, rgba(115, 83, 213, 0.7) -15.7%, rgba(36, 39, 109, 0.7) 133.92%);
+
+}
+
+#img-fluid {
+    margin: 0px;
+}
+
+#strona {
+    width: 168px;
+    height: 40px;
+    left: 444px;
+    top: 3035px;
+
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    margin-bottom: 70px;
+}
+
+#oprod {
+    width: 157px;
+    height: 61px;
+    left: 436px;
+    top: 3077px;
+
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    margin-bottom: 60px;
+}
+
+#kupani {
+    width: 168px;
+    height: 59px;
+    left: 428px;
+    top: 3117px;
+
+
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    margin-left: -10px;
+
+}
+
+#sklep {
+    width: 165px;
+    height: 50px;
+    left: 677px;
+    top: 2959px;
+    margin-bottom: 70px;
+
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.1em;
+}
+
+#reg {
+    width: 165px;
+    height: 50px;
+    left: 703px;
+    top: 3027px;
+
+
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+
+}
+
+#faq {
+    width: 262px;
+    height: 29px;
+    left: 722px;
+    top: 3075px;
+
+
+
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+
+}
+
+#pol {
+    width: 254px;
+    height: 45px;
+    left: 722px;
+    top: 3117px;
+
+
+
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+
+}
+
+#skon {
+
+    width: 270px;
+    height: 76px;
+    left: 714px;
+    top: 3162px;
+
+
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+
+}
+
+#kon {
+    width: 90px;
+    height: 34px;
+    left: 1085px;
+    top: 2959px;
+    margin-bottom: 70px;
+
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.1em;
+
+}
+
+#yt {
+    width: 109px;
+    height: 41px;
+    left: 1075px;
+    top: 3049px;
+
+
+
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+
+}
+
+#ig {
+    width: 124px;
+    height: 35px;
+    left: 1082px;
+    top: 3082px;
+
+
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+
+}
+
+#tt {
+    width: 98px;
+    height: 39px;
+    left: 1075px;
+    top: 3116px;
+
+
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+
+}
+
+#logodol {
+    width: 245px;
+    height: 63px;
+    left: 183px;
+    top: 2928px;
+}
